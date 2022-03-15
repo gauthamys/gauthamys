@@ -1,3 +1,4 @@
+<h1>Gautham YS</h1>
 <p align="left"> <a href="https://twitter.com/gauthamys" target="blank"><img src="https://img.shields.io/twitter/follow/gauthamys?logo=twitter&style=for-the-badge" alt="gauthamys" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
