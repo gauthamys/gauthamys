@@ -8,6 +8,6 @@ What am I building?
 
 See https://www.github.com/gauthamys/project-ideas
 
-What i have built?
+What i have built so far
 
 I am most proud of my UIC_CS441 repositories
