@@ -8,7 +8,7 @@ What I want to build
 
 See https://www.github.com/gauthamys/project-ideas
 
-(A repository with project ideas with me and [@sahanajprakash] (https://www.github.com/sahanajprakash))
+(A repository with project ideas with me and [@sahanajprakash](https://www.github.com/sahanajprakash))
 
 What i have built so far
 
