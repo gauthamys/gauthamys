@@ -1,4 +1,4 @@
-# Gautham YS
+# Gautham Satyanarayana
 
 ## Who am I?
 
